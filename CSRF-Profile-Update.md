@@ -17,7 +17,7 @@ High — The profile update endpoint does not implement CSRF protection mechanis
 
 
 ### Found In
-`https://192.168.31.97/User-Registration-and-login-System-with-admin-panel/loginsystem/admin/edit-profile.php?uid=1`
+`https://localhost/User-Registration-and-login-System-with-admin-panel/loginsystem/admin/edit-profile.php?uid=1`
 
 
 ### Vulnerability Description
